@@ -16,7 +16,7 @@ console.log("80-89 \t  \t 9-11 \t\t B \t 3");
 console.log("70-79 \t  \t 6-8 \t\t C \t 2");
 console.log("60-69 \t  \t 3-5 \t\t D \t 1");
 console.log("<60 \t  \t 1-2 \t\t E \t 0");
-console.log("0 \t  \t 0 \t\t Z \t 0");
+console.log("0 \t  \t 0 \t\t Z \t ");
 
 
 // Preguntar al usuario su nota
